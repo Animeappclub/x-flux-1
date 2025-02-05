@@ -1,7 +1,5 @@
-accelerate==0.30.1
 deepspeed==0.14.4
 einops==0.8.0
-transformers==4.43.3
 huggingface-hub==0.24.5
 optimum-quanto
 datasets
@@ -13,3 +11,16 @@ matplotlib
 onnxruntime
 torchvision
 timm
+fastapi[standard]
+uvicorn
+torch
+boto3
+python-multipart
+motor
+pillow
+pydantic
+asyncio
+accelerate
+transformers==4.42.4
+xformers
+protobuf
